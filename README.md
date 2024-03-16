@@ -19,5 +19,5 @@ You will be spending the majority of your time at NSS working as a team to solve
 ## Working with branches
 
 * [Update your branch after PR is merged](./BRANCH_UPDATE.md)
-* [Create a branch](./BRANCH_CREATE.MD)
+* [Create a branch](./BRANCH_CREATE.md)
 * [Delete a branch](./BRANCH_DELETE.md)
