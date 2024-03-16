@@ -12,7 +12,7 @@ You will be spending the majority of your time at NSS working as a team to solve
 ## Pull requests
 
 * [Creating a PR](./PR_CREATE.md)
-* [Testing a teammate's PR](./PR_TEST.md)
+* [Testing a teammate's PR](./PR_TESTING.md)
 * [Updating an existing PR](./PR_UPDATE.md)
 * [Merging a PR](./PR_MERGE.md)
 
