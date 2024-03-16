@@ -23,7 +23,7 @@ git pull
 git tag {version number}
 
 # Push tag to Github
-git push develop {version number}
+git push origin {version number}
 ```
 
 ## Create release pull request
