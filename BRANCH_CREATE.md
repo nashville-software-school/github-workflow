@@ -1,4 +1,4 @@
-[Home](./GUIDES.md)
+[Home](./README.md)
 
 # Create a Branch
 
