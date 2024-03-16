@@ -43,7 +43,7 @@ Once the develop branch exists, all other teammate follow these steps.
     ```
 
 
-After the team reviews the project requirements and you are ready to start working on the feature assigned to you, [create a branch](./NEW_BRANCH.md) for the work.
+After the team reviews the project requirements and you are ready to start working on the feature assigned to you, [create a branch](./BRANCH_CREATE.md) for the work.
 
 ### Related Guides
 
