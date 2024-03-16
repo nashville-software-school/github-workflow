@@ -19,3 +19,4 @@ Decide on a new feature or bug to work on and follow the process for [starting a
 
 * [Creating a branch](./BRANCH_CREATE.md)
 * [Update your Pull Request with new code](./PR_UPDATE.md)
+* [Creating a Pull Request](./PR_CREATE.md)
