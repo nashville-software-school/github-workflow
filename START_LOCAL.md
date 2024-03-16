@@ -39,7 +39,9 @@ The following steps must be done by one, and only one, teammate. Everyone else w
     git remote add origin {connection string}
     ```
 13. Run `git push -u origin main` to push your first commit to Github.
-14. Share the public URL to the repository with your team.
+14. Run `git switch -c develop` to create the active development branch.
+15. Run `git push -u origin develop` to create the branch on Github.
+16. Share the public URL to the repository with your team.
 
 ## Cloning the Repository
 
