@@ -6,15 +6,17 @@ You will be spending the majority of your time at NSS working as a team to solve
 
 ## Getting started with a team
 
-* [Starting a new project with an existing repository](./START_REMOTE.md)
-* [Starting a new project from scratch with no existing repository](./START_LOCAL.md)
+* [Clone existing repository](./START_REMOTE.md) that is provided by the instructors.
+* [Starting a new project from scratch](./START_LOCAL.md)  with no existing repository
+* [Creating a project board](./PROJECTS.md) to hold issue tickets.
+* [Create issue tickets](./TICKETS.md) that define discrete units of work for the team.
 
 ## Pull requests
 
-* [You are ready for your teammates to review your code](./PR_CREATE.md)
-* [You want to review someone else's code](./PR_TESTING.md)
-* [You have made changes after creating your pull request](./PR_UPDATE.md)
-* [Your code has been reviewed and approved](./PR_MERGE.md)
+* You are ready for your teammates to [review your code](./PR_CREATE.md)
+* You want to [review someone else's code](./PR_TESTING.md)
+* [You have updated code in your branch](./PR_UPDATE.md) after creating your pull request
+* Your code has been [reviewed and approved](./PR_MERGE.md)
 
 ## Working with branches
 
