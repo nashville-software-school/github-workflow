@@ -24,6 +24,10 @@ You will be spending the majority of your time at NSS working as a team to solve
 * [Create a branch](./BRANCH_CREATE.md)
 * [Delete a branch](./BRANCH_DELETE.md)
 
-## Production Releases
+## Merge conflicts
+
+If there are any conflicts when you try to merge a branch, watch the [EXTREMELY helpful guide to merge conflicts](https://youtu.be/HosPml1qkrg?t=140) video to fix the conflict in Visual Studio Code merge editor.
+
+## Production releases
 
 * [Tag and release code to production](./PROD_RELEASE.md)
