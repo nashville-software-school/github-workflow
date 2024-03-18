@@ -6,7 +6,6 @@
 
 Before you start [creating issue tickets](./TICKETS.md) that define the work your team needs to complete for a project, you need to create a project board.
 
-
 1. Go to the team's Github repository page.
 2. Click on the **Projects** tab at the top.
 3. At the top of this view, you will see a green **Link a project** button, click on the down arrow on the right of it.

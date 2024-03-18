@@ -7,6 +7,10 @@
 When a teammate's code has been merged into the `develop` branch on Github, at your earliest possible convenience, you should rebase your current work on the latest code in `develop`.
 
 ```bash
+# Make sure you have no changes to be committed
+# Add and commit changes if there are any
+git status
+
 # Checkout the develop branch
 git checkout develop
 

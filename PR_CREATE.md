@@ -4,14 +4,17 @@
 
 > **Tip:** Remember that curly braces in commands below should not be typed by you. They indicate that you should place your own value there without curly braces.
 
+## Ensure you have the latest
+
+Before you create a pull request, you need to make sure you have the latest version of `develop` merged into your branch, or the code could be out of date - and you don't want that.  Follow the "[Rebase your branch with develop](./BRANCH_UPDATE.md)" guide to make sure that the code on your branch is the freshest.
+
+If there are any merge conflicts, watch the [EXTREMELY helpful guide to merge conflicts](https://youtu.be/HosPml1qkrg?t=140) video to fix the conflict in Visual Studio Code.
+
 ## Push your branch
 
-```bash
-# Make sure you have no changes to be committed
-# Add and commit changes if there are any
-git status
+Time to push your code to Github and create a pull request. Pull requests are attached to branches, not commits, so you can do this step as many times as you need.
 
-# Push branch to Github
+```bash
 git push origin {branch name}
 ```
 
