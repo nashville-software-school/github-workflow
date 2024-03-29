@@ -19,7 +19,7 @@ The `-c` creates the branch before switching to it.
 When you are ready to work on a new feature, or continue work on a feature that was started in a previous branch.
 
 ```
-git switch -c bigfix/{bug}
+git switch -c bugfix/{bug}
 ```
 
 The `-c` creates the branch before switching to it.
