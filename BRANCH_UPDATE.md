@@ -11,8 +11,8 @@ When a teammate's code has been merged into the `develop` branch on Github, at y
 # Add and commit changes if there are any
 git status
 
-# Checkout the develop branch
-git checkout develop
+# Switch to the develop branch
+git switch develop
 
 # Pull the latest changes from the remote repository
 git pull
