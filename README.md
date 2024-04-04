@@ -8,27 +8,27 @@ You will be spending the majority of your time at NSS working as a team to solve
 
 ### Establishing Standards
 
-1. Decide on a [branch naming convention](./BRANCH_NAMING.md) that everyone must follow.
+* Decide on a [branch naming convention](./BRANCH_NAMING.md) that everyone must follow.
 
 ### Branch Processes
 
 * [Clone existing repository](./START_REMOTE.md) that is provided by the instructors.
-* [Starting a new project from scratch](./START_LOCAL.md)  with no existing repository
+* [Starting a new project from scratch](./START_LOCAL.md)  with no existing repository.
 * [Creating a project board](./PROJECTS.md) to hold issue tickets.
 * [Create issue tickets](./TICKETS.md) that define discrete units of work for the team.
 
 ## Pull requests
 
-* You are ready for your teammates to [review your code](./PR_CREATE.md)
-* You want to [review someone else's code](./PR_TESTING.md)
-* [You have updated code in your branch](./PR_UPDATE.md) after creating your pull request
-* Your code has been [reviewed and approved](./PR_MERGE.md)
+* You are ready for your teammates to [review your code](./PR_CREATE.md).
+* You want to [review someone else's code](./PR_TESTING.md).
+* [You have updated code in your branch](./PR_UPDATE.md) after creating your pull request.
+* Your code has been [reviewed and approved](./PR_MERGE.md).
 
 ## Working with branches
 
-* [Update your branch after PR is merged](./BRANCH_UPDATE.md)
-* [Create a branch](./BRANCH_CREATE.md)
-* [Delete a branch](./BRANCH_DELETE.md)
+* [Update your branch](./BRANCH_UPDATE.md) after PR is merged.
+* [Create a branch](./BRANCH_CREATE.md) when you're starting new work.
+* [Delete a branch](./BRANCH_DELETE.md) when it has been merged into `develop`.
 
 ## Merge conflicts
 
