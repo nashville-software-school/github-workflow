@@ -26,5 +26,6 @@ The `-c` creates the branch before switching to it.
 
 ### Related Guides
 
+* [Branch naming conventions](./BRANCH_NAMING.md)
 * [Deleting a branch](./BRANCH_DELETE.md)
 * [Rebase your branch with develop](./BRANCH_UPDATE.md)

@@ -6,6 +6,12 @@ You will be spending the majority of your time at NSS working as a team to solve
 
 ## Getting started with a team
 
+### Establishing Standards
+
+1. Decide on a [branch naming convention](./BRANCH_NAMING.md) that everyone must follow.
+
+### Branch Processes
+
 * [Clone existing repository](./START_REMOTE.md) that is provided by the instructors.
 * [Starting a new project from scratch](./START_LOCAL.md)  with no existing repository
 * [Creating a project board](./PROJECTS.md) to hold issue tickets.
