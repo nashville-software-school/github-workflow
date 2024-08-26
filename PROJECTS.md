@@ -14,3 +14,4 @@ Before you start [creating issue tickets](./TICKETS.md) that define the work you
 6. Enter in **{project name} {your team name}** in the _Project name_ input field at the top. For example, if you are working on the Cider Falls project, and you come up with a team name of Titans, you'll enter **Cider Falls Titans**.
 7. Click green **Create project** at the bottom.
 8. You will be given a board with three columns - To Do, In Progress, and Done. Click the + sign next to Done and create a new column named **Backlog** and then click and drag it to be the first column on the left.
+9. Watch the [Setting Up Ticket Weights in Github Project Boards](https://www.loom.com/share/e0125963b10b441aa2aac84797c64cbc?sid=a691cd05-9e6c-47b6-b239-9e62fc7940d0) and follow the instructions.
