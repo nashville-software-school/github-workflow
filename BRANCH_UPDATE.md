@@ -26,5 +26,5 @@ git rebase develop
 
 ### Related Guides
 
-* [Fixing Merge Conflicts](./MERGE_CONFLICTS.md)
+* [Fixing Merge Conflicts](https://youtu.be/HosPml1qkrg?t=140)
 * [Creating a feature branch](./BRANCH_CREATE.md)
